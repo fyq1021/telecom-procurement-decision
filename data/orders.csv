@@ -1,0 +1,8 @@
+order_id,item,order_qty,unit_price,contract_amount,due_date,contract_file_present,purchase_order_file_present
+O-1001,network module A,100,120,12000,2026-09-20,Y,Y
+O-1002,network module B,80,150,12000,2026-10-20,Y,Y
+O-1003,network module C,50,90,4500,2026-10-05,Y,Y
+O-1004,network module D,40,125,5000,2026-10-01,Y,Y
+O-1005,network module E,30,200,5900,2026-09-30,Y,Y
+O-1006,network module F,20,75,1500,2026-10-01,N,Y
+O-1007,network module G,25,110,2750,,Y,

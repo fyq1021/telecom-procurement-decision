@@ -1,0 +1,9 @@
+delivery_id,order_id,signed_quantity,receipt_file_present
+DL-001,O-1001,60,Y
+DL-002,O-1001,40,Y
+DL-004,O-1003,20,Y
+DL-005,O-1003,8,Y
+DL-006,O-1004,40,Y
+DL-007,O-1005,20,Y
+DL-008,O-1005,15,Y
+DL-009,O-1007,10,Y
